@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-notify-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rabbitmq-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-comment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-httpclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-promotion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-wxtools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-comment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-httpclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-promotion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-timer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-wxtools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-mobile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-common" charset="UTF-8" />
+  </component>
+</project>

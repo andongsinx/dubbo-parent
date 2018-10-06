@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="weixin-notify-pay:war">
+    <output-path>$PROJECT_DIR$/../../Weixin-Dubbo/weixin-notify-pay/target</output-path>
+    <root id="archive" name="notifyPay.war">
+      <element id="artifact" artifact-name="weixin-notify-pay:war exploded" />
+    </root>
+  </artifact>
+</component>

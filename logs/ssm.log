@@ -1,0 +1,14 @@
+[WARN] [2018-07-11 23:32:32][com.aliyun.oss][Server]Unable to execute HTTP request: The OSS Access Key Id you provided does not exist in our records.
+[ErrorCode]: InvalidAccessKeyId
+[RequestId]: 5B4622D6146326E76249581A
+[HostId]: shadow-wu.oss-cn-beijing.aliyuncs.com
+[ResponseError]:
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>InvalidAccessKeyId</Code>
+  <Message>The OSS Access Key Id you provided does not exist in our records.</Message>
+  <RequestId>5B4622D6146326E76249581A</RequestId>
+  <HostId>shadow-wu.oss-cn-beijing.aliyuncs.com</HostId>
+  <OSSAccessKeyId>LTAI5WlugaRq3pvL </OSSAccessKeyId>
+</Error>
+

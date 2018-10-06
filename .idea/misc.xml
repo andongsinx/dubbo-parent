@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/dubbo-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-notify-pay" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-mobile" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common-config/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-notify-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rabbitmq-model/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-comment/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-item/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-message/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-promotion/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-system/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-rpc-wxtools/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-comment/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-item/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-message/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-promotion/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-system/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-timer/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-service-wxtools/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-mobile/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

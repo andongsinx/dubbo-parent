@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="weixin-web-manage:war">
+    <output-path>$PROJECT_DIR$/../../Weixin-Dubbo/weixin-web-manage/target</output-path>
+    <root id="archive" name="manage.war">
+      <element id="artifact" artifact-name="weixin-web-manage:war exploded" />
+    </root>
+  </artifact>
+</component>

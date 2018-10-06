@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-consumer" />
+        <module name="provider" />
+        <module name="rpc-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-parent" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="rpc-common" target="1.5" />
+      <module name="weixin-common" target="1.7" />
+      <module name="weixin-common-config" target="1.7" />
+      <module name="weixin-common-entity" target="1.7" />
+      <module name="weixin-common-service" target="1.7" />
+      <module name="Weixin-Dubbo" target="1.5" />
+      <module name="weixin-notify-pay" target="1.7" />
+      <module name="weixin-rabbitmq-model" target="1.7" />
+      <module name="weixin-rpc-admin" target="1.7" />
+      <module name="weixin-rpc-cart" target="1.7" />
+      <module name="weixin-rpc-comment" target="1.7" />
+      <module name="weixin-rpc-httpclient" target="1.7" />
+      <module name="weixin-rpc-item" target="1.7" />
+      <module name="weixin-rpc-log" target="1.7" />
+      <module name="weixin-rpc-message" target="1.7" />
+      <module name="weixin-rpc-order" target="1.7" />
+      <module name="weixin-rpc-promotion" target="1.7" />
+      <module name="weixin-rpc-rabbitmq" target="1.7" />
+      <module name="weixin-rpc-redis" target="1.7" />
+      <module name="weixin-rpc-system" target="1.7" />
+      <module name="weixin-rpc-user" target="1.7" />
+      <module name="weixin-rpc-wxtools" target="1.7" />
+      <module name="weixin-service-admin" target="1.7" />
+      <module name="weixin-service-cart" target="1.7" />
+      <module name="weixin-service-comment" target="1.7" />
+      <module name="weixin-service-httpclient" target="1.7" />
+      <module name="weixin-service-item" target="1.7" />
+      <module name="weixin-service-log" target="1.7" />
+      <module name="weixin-service-message" target="1.7" />
+      <module name="weixin-service-order" target="1.7" />
+      <module name="weixin-service-promotion" target="1.7" />
+      <module name="weixin-service-rabbitmq" target="1.7" />
+      <module name="weixin-service-redis" target="1.7" />
+      <module name="weixin-service-system" target="1.7" />
+      <module name="weixin-service-timer" target="1.7" />
+      <module name="weixin-service-user" target="1.7" />
+      <module name="weixin-service-wxtools" target="1.7" />
+      <module name="weixin-web-manage" target="1.7" />
+      <module name="weixin-web-mobile" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
